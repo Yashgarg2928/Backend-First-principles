@@ -82,3 +82,15 @@ Used the enhace the security of the request and message. By controlling things l
 4. X-content-Type-Options
 5. Set-Cookie
 
+
+**HTTP Methods**
+Method defines the intent of an action 
+1. GET : Used to get any data from the server.
+2. POST : Used to send data to the server.
+3. PUT: Used to update data but in this any data which comes should completly replace the data.
+4. PATCH: This is used when we want to append data.
+5. DELETE : This is used when we want to delete the data.
+
+
+**Idempotent vs Non-idempotent**
+Idempoyent 
