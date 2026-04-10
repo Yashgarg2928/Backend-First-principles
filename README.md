@@ -93,4 +93,8 @@ Method defines the intent of an action
 
 
 **Idempotent vs Non-idempotent**
-Idempoyent 
+Idempoyent: These are the methods that give same response each time. 
+1. GET: Always get same kind of response
+2. PUT 
+3. DELETE
+
